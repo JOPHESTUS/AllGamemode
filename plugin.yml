@@ -1,0 +1,7 @@
+name: AllGamemode
+main: me.jophestus.allgamemode.AllGamemode
+version: 1.0
+author: JOPHESTUS
+description: Sets all player's game mode
+commands:
+    allgm:
