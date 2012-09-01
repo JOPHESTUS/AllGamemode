@@ -6,6 +6,7 @@ Commands
 
 /allgm [0,1,2]
 /allgm [creative,survival,adventure]
+
 Permissions
 
 allgamemode.all - Allows you to use the /allgm command
